@@ -20,6 +20,6 @@ Hello, I'm Hamad Hadi.<br><br>Mobile and a Full-Stack Developer.<br>Currently Le
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hamadhadi&icon=6&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hamadhadi&label=Profile%20Views&color=2&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
